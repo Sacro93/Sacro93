@@ -5,7 +5,8 @@
 
 <h1 align="center">🌱  About Me</h1>
 
-**I´m a student of multiplatform application development with knowledge in JavaScript and React. Currently, I am learning Python and will soon begin my Professional Training Degree in Multiplatform Application Development at CEAC Barcelona. Additionally, I´m to apply my acquired knowledge in the banking industry, specifically as an account executive, dealing with financial products, and utilizing my training as a Product Manager.**
+**I´m a student of multiplatform application development, specialized in JavaScript and React. Currently, I'm learning Python and will soon begin my studies as a multiplatform developer at CEAC Barcelona. 
+I have a bakground in the banking industry as an account executive. **
 
 <br/>
 
