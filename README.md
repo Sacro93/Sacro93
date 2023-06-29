@@ -9,7 +9,7 @@
 
 <br/>
 
-- 📄 I’m currently learning **Python en Kaggle**
+- 📄 I’m currently learning **Python in Kaggle**
 
 - 👯 I’m looking to collaborate on **projects that develop my professional profile**
 
