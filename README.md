@@ -6,7 +6,7 @@
 <h1 align="center">🌱  About Me</h1>
 
 **I´m a student of multiplatform application development, specialized in JavaScript and React. Currently, I'm learning Python and will soon begin my studies as a multiplatform developer at CEAC Barcelona. 
-I have a bakground in the banking industry as an account executive. **
+I have a bakground in the banking industry as an account executive.**
 
 <br/>
 
