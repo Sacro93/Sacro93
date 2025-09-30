@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Francisco Sacroisky</h1>
-  <h3>An Argentine Android Developer 🇦🇷 based in Barcelona 🇪🇸</h3>
- <h3> Android Developer | 2025 Graduate in Multiplatform App Development.</h3>
+  <h3>An Argentine 🇦🇷 based in Barcelona </h3>
+ <h3> Android Developer Jr | 2025 Graduate in Multiplatform App Development.</h3>
 
 </div>
 
